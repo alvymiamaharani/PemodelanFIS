@@ -1,0 +1,9 @@
+waktu,jenis_jalan,sepeda_motor,mobil_pribadi,angkot,bus_mini,pickup_box,mini_truk,bus_besar,kendaraan_tak_bermotor,durasi_lampu
+pagi,kecil,254309,69116,613,137,1914,228,108,412,60
+pagi,besar,213567,81387,871,145,1575,235,163,745,60
+siang,kecil,222553,57876,531,100,1592,175,81,306,60
+siang,besar,120520,34000,292,56,752,70,44,132,60
+sore,kecil,244257,67012,584,133,1865,223,104,397,60
+sore,besar,223353,68261,958,136,1889,186,161,661,60
+malam,kecil,198552,49589,20,109,1428,144,82,80,60
+malam,besar,55678,46753,18,106,1264,133,139,30,60
